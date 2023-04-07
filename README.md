@@ -3,7 +3,7 @@ https://rmt.axa-d.ru/
 
 is based on CoreUI Free React Template & Bootstrap 4 Template
 
-with interactive Yandex map, showing coordinates of company ships
+with interactive Yandex map, showing coordinates of company ships (you have to click on ship icon to see info about ship)
 
 <p>
 <img src="https://github.com/sergey-aks/rmt-shipping-website/blob/main/react-logo.png" alt="react" style="max-width: 100%;">
