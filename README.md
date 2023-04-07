@@ -9,4 +9,4 @@ is based on CoreUI Free React Template & Bootstrap 4 Template
 <img src="https://github.com/sergey-aks/rmt-shipping-website/blob/main/bootstrap-logo.png" alt="bootstrap" style="max-width: 100%;">
 </p>
 
-<img src="https://github.com/sergey-aks/rmt-shipping-website/blob/main/rmt.jpg" alt="react" style="max-width: 100%;">
+<a href="https://rmt.axa-d.ru/" target="_blank"><img src="https://github.com/sergey-aks/rmt-shipping-website/blob/main/rmt.jpg" alt="react" style="max-width: 100%;"></a>
