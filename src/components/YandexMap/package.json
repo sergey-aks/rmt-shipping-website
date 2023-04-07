@@ -1,0 +1,7 @@
+{
+    "name": "YandexMap",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./YandexMap.js"
+  }
+  

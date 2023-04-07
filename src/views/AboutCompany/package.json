@@ -1,0 +1,6 @@
+{
+  "name": "AboutCompany",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AboutCompany.js"
+}
